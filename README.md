@@ -50,7 +50,8 @@ node index.js
 * Telegram Bot Token
 * [yt-dlp](https://github.com/yt-dlp/yt-dlp) 
 * [FFmpeg](https://github.com/FFmpeg/FFmpeg)
-* 
+* Telegram: api_hash api_id (для скачивание до 2GB)
+
 🌍 Контакт
 * Telegram: [@Saidolimxoja](https://t.me/kingolimxoja)
 * GitHub: [@Saidolimxoja](https://github.com/Saidolimxoja/Saidolimxoja)
