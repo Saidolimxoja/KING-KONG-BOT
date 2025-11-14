@@ -48,7 +48,9 @@ node index.js
 * npm
 * Доступ к интернету
 * Telegram Bot Token
-
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp) 
+* [FFmpeg](https://github.com/FFmpeg/FFmpeg)
+* 
 🌍 Контакт
 * Telegram: [@Saidolimxoja](https://t.me/kingolimxoja)
 * GitHub: [@Saidolimxoja](https://github.com/Saidolimxoja/Saidolimxoja)
