@@ -1,0 +1,27 @@
+{
+    "name": "king-kong-bot",
+    "version": "1.0.0",
+    "description": "powerfull bot for downloading videos",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "king-kong-bot"
+    },
+    "author": "Said_xoja",
+    "license": "ISC",
+    "dependencies": {
+        "bull": "^4.16.5",
+        "dotenv": "^17.2.3",
+        "express": "^5.1.0",
+        "grammy": "^1.38.3",
+        "ioredis": "^5.8.2",
+        "node-cache": "^5.1.2",
+        "node-fetch": "^3.3.2",
+        "telegram": "^2.26.22",
+        "yt-dlp-exec": "^1.0.2"
+    }
+}
